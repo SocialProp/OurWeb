@@ -799,7 +799,7 @@ img::-moz-selection {
 
 
 #services{
-  margin-top: 70px;
+  margin-top: 0px;
 }
 .fa-stack-2x{
   color: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
