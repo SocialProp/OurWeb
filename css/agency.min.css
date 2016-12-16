@@ -129,7 +129,7 @@ a.active, a:active, a:focus, a:hover {
 
 .navbar-custom .navbar-brand {
     color: #167bce;
-    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive
+    font-family: font-family: 'Open Sans', sans-serif;
 }
 
 .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
