@@ -19,7 +19,7 @@
     });
 
     // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function(){ 
+    $('.navbar-collapse ul li a').click(function(){
             $('.navbar-toggle:visible').click();
     });
 
@@ -31,3 +31,35 @@
     })
 
 })(jQuery); // End of use strict
+
+$('.multiple-item').slick({
+  infinite: true,
+  slidesToShow: 4,
+  draggable: true,
+  infinite: true,
+  autoplay: true,
+  autoplaySpeed: 3000,
+  responsive: [
+                {
+                  breakpoint: 768,
+                  settings: {
+                    arrows: false,
+                    centerMode: true,
+                    centerPadding: '40px',
+                    slidesToShow: 2
+                  }
+                },
+                {
+                  breakpoint: 480,
+                  settings: {
+                    arrows: false,
+                    centerMode: true,
+                    centerPadding: '40px',
+                    slidesToShow: 1
+                  }
+                }
+              ],
+  slidesToScroll: 3 });
+  }
+});
+  smallfeed.run();

@@ -23,9 +23,12 @@ body {
 .text-muted {
     color: #777
 }
-
+/* FONDO BOTONES SERVICIOS */
 .text-primary, a {
-    color: #167bce;
+    color: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
+    color: -o-linear-gradient(right, red, yellow); /* For Opera 11.1 to 12.0 */
+    color: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15 */
+    color: linear-gradient(to right, red , yellow);
 }
 
 
@@ -162,11 +165,11 @@ a.active, a:active, a:focus, a:hover {
     color: #167bce;
     outline: 0
 }
-
+/* CAMBIO DE COLOR CUANDO ESTAS EN EL DIV MENU */
 .navbar-custom .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #167bce
+    background-color: red;
 }
 
 .navbar-custom .navbar-nav>.active>a:focus, .navbar-custom .navbar-nav>.active>a:hover {
@@ -796,5 +799,11 @@ img::-moz-selection {
 
 
 #services{
-  margin-top: 120px;
+  margin-top: 70px;
+}
+.fa-stack-2x{
+  color: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
+  color: -o-linear-gradient(right, red, yellow); /* For Opera 11.1 to 12.0 */
+  color: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15 */
+  color: rgba(0, 145, 255, 0.76);
 }
