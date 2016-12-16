@@ -28,6 +28,14 @@ body {
     color: #167bce;
 }
 
+
+
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e569a+0,7eb8e8+100 */
+
+
+
+
 p {
     font-size: 14px;
     line-height: 1.75
@@ -42,7 +50,7 @@ a, a.active, a:active, a:focus, a:hover {
 }
 
 a.active, a:active, a:focus, a:hover {
-    color: #1ad4db
+    color: #222
 }
 
 .img-centered {
@@ -59,13 +67,16 @@ a.active, a:active, a:focus, a:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #167bce;
+    background: -webkit-linear-gradient(left top, blue, light-blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, blue, light-blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, blue, light-blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, blue, red); /* Standard syntax (must be last) */
     border-color: #167bce
 }
 
 .btn-primary.active, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #1ad4db;
+    background-color: #222;
     border-color: white;
 }
 
@@ -78,19 +89,23 @@ a.active, a:active, a:focus, a:hover {
     color: #167bce;
     background-color: #fff
 }
-
+/* BOTON CUENTANOS MAS */
 .btn-xl {
     color: #fff;
-    background-color: #167bce;
-    border-color: #167bce;
-    border-radius: 3px;
+    /*background: -webkit-linear-gradient(left top, blue, light-blue); /* For Safari 5.1 to 6.0 */
+    /*background: -o-linear-gradient(bottom right, blue, light-blue); /* For Opera 11.1 to 12.0 */*/
+    /*background: -moz-linear-gradient(bottom right, blue, light-blue); /* For Firefox 3.6 to 15 */*/
+    /*background: linear-gradient(to bottom right, blue, violet); /* Standard syntax (must be last) */*/
+    background-color: rgba(255, 255, 255, .80);
+    border-color: white;
+    border-radius: 10px;
     font-size: 18px;
     padding: 20px 40px
 }
 
 .btn-xl.active, .btn-xl:active, .btn-xl:focus, .btn-xl:hover, .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #1ad4db;
+    background-color: #222;
     border-color: white;
 }
 
@@ -115,7 +130,7 @@ a.active, a:active, a:focus, a:hover {
 }
 
 .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
-    color: #1ad4db
+    color: #222
 }
 
 .navbar-custom .nav li a, .navbar-custom .navbar-toggle {
@@ -156,7 +171,7 @@ a.active, a:active, a:focus, a:hover {
 
 .navbar-custom .navbar-nav>.active>a:focus, .navbar-custom .navbar-nav>.active>a:hover {
     color: #fff;
-    background-color: #1ad4db
+    background-color: #222
 }
 
 @media (min-width:768px) {
@@ -777,4 +792,9 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0
+}
+
+
+#services{
+  margin-top: 120px;
 }
