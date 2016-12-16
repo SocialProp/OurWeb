@@ -807,3 +807,9 @@ img::-moz-selection {
   color: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15 */
   color: rgba(0, 145, 255, 0.76);
 }
+#team{
+  background: -webkit-linear-gradient(left top, rgba(51, 110, 183, 0.62), AliceBlue); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, rgba(51, 110, 183, 0.62), AliceBlue); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, rgba(51, 110, 183, 0.62), AliceBlue); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, rgba(51, 110, 183, 0.62), AliceBlue); /* Standard syntax (must be last) */
+}
