@@ -799,6 +799,7 @@ img::-moz-selection {
 
 
 #services{
+  padding-top: 80px;
   margin-top: 0px;
 }
 .fa-stack-2x{
@@ -808,8 +809,22 @@ img::-moz-selection {
   color: rgba(0, 145, 255, 0.76);
 }
 #team{
+  padding-top: 80px;
   background: -webkit-linear-gradient(left top, rgba(51, 110, 183, 0.62), AliceBlue); /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(bottom right, rgba(51, 110, 183, 0.62), AliceBlue); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(bottom right, rgba(51, 110, 183, 0.62), AliceBlue); /* For Firefox 3.6 to 15 */
   background: linear-gradient(to bottom right, rgba(51, 110, 183, 0.62), AliceBlue); /* Standard syntax (must be last) */
+}
+#filter{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none; /*Unofficial and Won't Validate*/
+  background-color: rgba(50,100,200, 0.23);
+  margin-left: -15px;
+  }
+.intro-lead-in{
+  z-index: 11;
 }
