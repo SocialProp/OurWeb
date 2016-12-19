@@ -219,7 +219,9 @@ header {
 
 header .intro-text {
     padding-top: 100px;
-    padding-bottom: 50px
+    padding-bottom: 50px;
+    position: relative;
+    z-index: 100;
 }
 
 #video{
@@ -822,7 +824,7 @@ img::-moz-selection {
   height: 100%;
   z-index: 1;
   pointer-events: none; /*Unofficial and Won't Validate*/
-  background-color: rgba(22, 123 ,206 , 0.14);
+  background-color: rgba(22, 123 ,206 , 0.15);
   margin-left: -15px;
   }
 .intro-lead-in{
