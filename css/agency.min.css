@@ -233,6 +233,9 @@ header .intro-text {
   width: auto;
   height: auto;
   z-index: -10;
+  filter: blur(1px)
+
+
 }
 header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -824,9 +827,15 @@ img::-moz-selection {
   height: 100%;
   z-index: 1;
   pointer-events: none; /*Unofficial and Won't Validate*/
-  background-color: rgba(22, 123 ,206 , 0.15);
+  background-color: rgba(22, 123, 206, 0.69);
   margin-left: -15px;
   }
 .intro-lead-in{
   z-index: 11;
+}
+.parablur{
+  overflow: hidden;
+}
+#titulomain{
+  color: #16cec8
 }
