@@ -205,7 +205,7 @@ a.active, a:active, a:focus, a:hover {
 }
 
 header {
-    background-image: url(../Big-Apple/MP4/Big-Apple.mp4);
+    background-image: url();
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
