@@ -63,3 +63,14 @@ $('.multiple-item').slick({
   }
 });
   smallfeed.run();
+
+
+
+
+  //AUTO TYPEO FUNCTION
+  $(document).ready(function(){
+    $("#typed_text").typed({
+      strings: ["", "", "", "", "", "Nosotros Pensamos", "<br/> Nosotros Creamos"],
+      typedSpeed: 0
+    });
+  });
