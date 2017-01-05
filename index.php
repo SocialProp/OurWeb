@@ -490,7 +490,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Barbuda Studio 2016</span>
+                    <span class="copyright">Copyright &copy; Barbuda Studio 2016-<?php echo date("Y"); ?></span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -506,7 +506,7 @@
                     <ul class="list-inline quicklinks">
                         <li><a href="#"></a>
                         </li>
-                        <li><a href="#">Terminos de uso</a>
+                        <li><a href="#"></a>
                         </li>
                     </ul>
                 </div>

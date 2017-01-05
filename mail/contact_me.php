@@ -5,7 +5,7 @@ $mail = new PHPMailer;
 //$mail->SMTPDebug = 3;
 $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->setFrom( $_POST['your-email'], $_POST['your-name']);
-$mail->addAddress('Palomatati@hotmail.com');               // Name is optional
+$mail->addAddress('hernanman_1@hotmail.com');               // Name is optional
 
 $mail->isHTML(true);                                  // Set email format to HTML
 
@@ -22,28 +22,25 @@ $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, 
 $mail->Port = 25;                                    // TCP port to connect to
 
 $mail->setFrom( $_POST['your-email'], $_POST['your-name']);
-$mail->addAddress('Palomatati@hotmail.com');               // Name is optional
+$mail->addAddress('hernanman_1@hotmail.com');               // Name is optional
 
 $mail->isHTML(true);                                  // Set email format to HTML
 
->>>>>>> 1609abb76a4bec8cc749f3e3931d23c860bcc3f7
 $mail->Subject = 'Mail de la web!' ;
 $mail->Body    = $_POST['your-message'];
 $mail->AltBody = $_POST['your-message'];
 
-<<<<<<< HEAD
+
  if(!$mail->send()) {
      echo 'Message could not be sent.';
      echo 'Mailer Error: ' . $mail->ErrorInfo;
  } else {
-   header('Location: index.html');
+   header('Location: index.php');
    exit;
-=======
 if(!$mail->send()) {
     echo 'Message could not be sent.';
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
-  header('Location: index.html');
+  header('Location: index.php');
   exit;
->>>>>>> 1609abb76a4bec8cc749f3e3931d23c860bcc3f7
 }
