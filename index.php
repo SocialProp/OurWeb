@@ -221,20 +221,20 @@
                         <p class="text-muted">Dali Official Ecommerce </p>
                     </div>
                 </div>
-                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://claxonapp.com/" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/Claxon.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Golden</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Mobile App</h4>
+                        <p class="text-muted">Web and Mobile development</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
