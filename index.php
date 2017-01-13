@@ -105,11 +105,18 @@
             <div class="row">
                 <div class="col-xs-12 col-lg-12 text-center">
                     <h2 class="section-heading">Servicios</h2>
-                    <h3 class="section-subheading text-muted">Un paquete completo.</h3>
+                    <h3 class="section-subheading text-muted">Te acompañamos en cada etapa de tu crecimiento online</h3>
                 </div>
             </div>
-            <div class="row text-center">
-                <div class="col-md-4">
+            <div class="row">
+		            <ul class="pasos controls">
+    		            <li class="completed"><a class="control" data-filter=".desarrollo">Desarrollo</a></li>
+			              <li class="active"><a class="control" data-filter=".comunicacion">Comunicación</a></li>
+			              <li class="control" data-filter=".analisis"><a>Análisis</a></li>
+		            </ul>
+	           </div>
+            <div class="row text-center elements">
+                <div class="col-md-4 mix desarrollo">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
@@ -117,7 +124,7 @@
                     <h4 class="service-heading">E-Commerce</h4>
                     <p class="text-muted">Lleva tu negocio a la web. Logra que tu producto sea visto por millones de personas alrededor del mundo.</p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 mix desarrollo">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
@@ -125,9 +132,16 @@
                     <h4 class="service-heading">Diseño</h4>
 
                     <p class="text-muted"> Desarrollamos soluciones digitales innovadoras diseñadas a medida de cada uno de nuestros clientes.</p>
-
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 mix desarrollo">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Mobile</h4>
+                    <p class="text-muted"> Generamos canales de comunicación donde más tiempo pasan los usuarios. Desarrollo de aplicaciones mobiles para Android e IOS.</p>
+                </div>
+                <div class="col-md-4 mix desarrollo">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
@@ -135,19 +149,17 @@
                     <h4 class="service-heading">Web seguras</h4>
                     <p class="text-muted">Protege tus datos y los de tus clientes con las mejores medidas de encriptación.</p>
                 </div>
-            </div>
-            <div class='row text-center'>
-              <div class="col-md-4">
+              <div class="col-md-4 mix comunicacion">
                   <span class="fa-stack fa-4x">
                       <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                      <i class="fa fa-video-camera fa-stack-1x fa-inverse"></i>
+                      <i class="fa fa-users fa-stack-1x fa-inverse"></i>
                   </span>
 
                   <h4 class="service-heading">Social Media</h4>
 
                   <p class="text-muted">Generamos presencia en redes sociales y creamos fuertes comunidades virtuales.</p>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-4 mix analisis">
                   <span class="fa-stack fa-4x">
                       <i class="fa fa-circle fa-stack-2x text-primary"></i>
                       <i class="fa fa-bar-chart fa-stack-1x fa-inverse"></i>
@@ -155,7 +167,7 @@
                   <h4 class="service-heading">Ads & Analytics</h4>
                   <p class="text-muted">Somos especialistas en ejecutar y medir campañas en medios digitales.</p>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-4 mix comunicacion">
                   <span class="fa-stack fa-4x">
                       <i class="fa fa-circle fa-stack-2x text-primary"></i>
                       <i class="fa fa-camera fa-stack-1x fa-inverse"></i>
@@ -713,6 +725,14 @@
 
     <!-- Theme JavaScript -->
     <script src="js/agency.min.js"></script>
+    <!-- Mezclador -->
+    <script src="js/mixitup.min.js"></script>
+
+    <script>
+            var containerEl = document.querySelector('.elements');
+
+            var mixer = mixitup(containerEl);
+    </script>
 </body>
 
 </html>

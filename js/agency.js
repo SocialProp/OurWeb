@@ -30,6 +30,7 @@
         }
     })
 
+
 })(jQuery); // End of use strict
 
 $('.multiple-item').slick({
