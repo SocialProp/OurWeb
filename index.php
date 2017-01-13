@@ -452,7 +452,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-lg-12">
-                    <form name="sentMessage" id="contactForm" novalidate>
+                    <form name="sentMessage" id="contactForm" action="mail/contact_me.php" novalidate>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
@@ -513,6 +513,7 @@
             </div>
         </div>
     </footer>
+
 
     <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
@@ -695,7 +696,6 @@
             </div>
         </div>
     </div>  -->
-
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <!-- TYPED JS -->

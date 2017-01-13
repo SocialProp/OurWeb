@@ -1,7 +1,5 @@
 // Contact Form Scripts
-
 $(function() {
-
     $("#contactForm input,#contactForm textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -11,6 +9,7 @@ $(function() {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
             var name = $("input#name").val();
+            console.log(name);
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var message = $("textarea#message").val();
