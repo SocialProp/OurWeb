@@ -413,7 +413,7 @@
                   <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
                     <div class="team-member">
-                        <img src="img/team/gon.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/team/Gon.jpg" class="img-responsive img-circle" alt="">
                         <h4>Gon Martin</h4>
                         <p class="text-muted">Community Manager</p>
                         <ul class="list-inline social-buttons">
