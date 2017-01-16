@@ -373,7 +373,7 @@
               <div class="col-lg-12">
                 <div class="col-sm-4 col-lg-4">
                   <div class="row">
-                    <div class="col-lg-10">
+                    <div class="col-lg-10 col-lg-offset-1">
                     <div class="team-member">
                         <img src="img/team/hernan2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Hernán Bessera</h4>
@@ -392,7 +392,7 @@
             </div>
                 <div class="col-sm-4 col-lg-4">
                   <div class="row">
-                    <div class="col-lg-10">
+                    <div class="col-lg-10 col-lg-offset-1">
                     <div class="team-member">
                         <img src="img/team/manuel.jpg" class="img-responsive img-circle" alt="">
                         <h4>Manuel Kirschbaum</h4>
@@ -411,7 +411,7 @@
                 </div>
                 <div class="col-sm-4 col-lg-4">
                   <div class="row">
-                    <div class="col-lg-10">
+                    <div class="col-lg-10 col-lg-offset-1">
                     <div class="team-member">
                         <img src="img/team/gon.jpg" class="img-responsive img-circle" alt="">
                         <h4>Gon Martin</h4>
