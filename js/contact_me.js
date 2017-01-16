@@ -9,7 +9,6 @@ $(function() {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
             var name = $("input#name").val();
-            console.log(name);
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var message = $("textarea#message").val();
@@ -19,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "./contact_me.php",
                 type: "POST",
                 data: {
                     name: name,

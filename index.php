@@ -473,7 +473,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-lg-12">
-                    <form name="sentMessage" id="contactForm" action="mail/contact_me.php" novalidate>
+                    <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
