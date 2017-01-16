@@ -234,7 +234,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="http://claxonapp.com/" class="portfolio-link" data-toggle="modal">
+                    <a href="http://claxonapp.com/" target="_blank" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -362,15 +362,18 @@
 
     <!-- Team Section -->
     <section id="team" class="bg-light-gray">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Nuestro Equipo</h2>
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="row-centered">
-                <div class="col-sm-4">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="col-sm-4 col-lg-4">
+                  <div class="row">
+                    <div class="col-lg-10">
                     <div class="team-member">
                         <img src="img/team/hernan2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Hernán Bessera</h4>
@@ -385,7 +388,11 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
+              </div>
+            </div>
+                <div class="col-sm-4 col-lg-4">
+                  <div class="row">
+                    <div class="col-lg-10">
                     <div class="team-member">
                         <img src="img/team/manuel.jpg" class="img-responsive img-circle" alt="">
                         <h4>Manuel Kirschbaum</h4>
@@ -399,8 +406,12 @@
                             </li>
                         </ul>
                     </div>
+                  </div>
                 </div>
-                <div class="col-sm-4">
+                </div>
+                <div class="col-sm-4 col-lg-4">
+                  <div class="row">
+                    <div class="col-lg-10">
                     <div class="team-member">
                         <img src="img/team/gon.jpg" class="img-responsive img-circle" alt="">
                         <h4>Gon Martin</h4>
@@ -415,7 +426,10 @@
                         </ul>
                     </div>
                 </div>
+              </div>
             </div>
+            </div>
+          </div>
         </div>
     </section>
 
