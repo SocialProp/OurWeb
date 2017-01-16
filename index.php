@@ -369,8 +369,8 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-1 col-lg-3 col-lg-offset-2">
+            <div class="row-centered">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/hernan2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Hernán Bessera</h4>
@@ -385,7 +385,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-2 col-lg-3 col-lg-offset-2">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/manuel.jpg" class="img-responsive img-circle" alt="">
                         <h4>Manuel Kirschbaum</h4>
@@ -400,11 +400,11 @@
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
+                        <img src="img/team/gon.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Gon Martin</h4>
+                        <p class="text-muted">Community Manager</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -414,11 +414,6 @@
                             </li>
                         </ul>
                     </div>
-                </div> -->
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted"></p>
                 </div>
             </div>
         </div>
