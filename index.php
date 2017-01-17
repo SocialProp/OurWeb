@@ -85,15 +85,12 @@
             <div class='col-xs-12 col-md-12 col-lg-12'>
             <div class="intro-text">
                 <div class="intro-lead-in"></div>
-                <h2 id="typed_text"></h2>
+                <h2>Potencia tu marca en el mundo digital</h2>
                 <div class="intro-heading"></div>
-                <a href="#services" class="page-scroll btn btn-xl">Cuentanos mas</a>
             </div>
             <div id="filter">
             </div>
-              <div class="parablur"><video id ='video' poster="img/Browsing.jpg"preload="auto" autoplay="true" id="bgvid" playsinline autoplay loop muted>
-                  <source src="https://s3-us-west-2.amazonaws.com/coverr/mp4/Browsing.mp4" type="video/mp4">
-              </video></div>
+              <div class="parablur"><iframe id="video" src="https://www.youtube.com/embed/Y9NquqtLGY4?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=Y9NquqtLGY4" frameborder="0" allowfullscreen></iframe></div>
             </div>
           </div>
         </div>
