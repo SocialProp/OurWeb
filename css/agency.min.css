@@ -310,13 +310,12 @@ header .intro-text {
 }
 
 #video{
-  position: fixed;
-  left: -70px;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   z-index: -10;
-  filter: blur(1px);
-  pointer-events:none;
 }
 header .intro-text .intro-lead-in {
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif;

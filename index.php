@@ -81,6 +81,7 @@
       <div class="homepage-hero-module">
       </div>
         <div class="container-fluid">
+
           <div class="row">
             <div class='col-xs-12 col-md-12 col-lg-12'>
             <div class="intro-text">
@@ -90,7 +91,8 @@
             </div>
             <div id="filter">
             </div>
-              <div class="parablur"><iframe id="video" src="https://www.youtube.com/embed/Y9NquqtLGY4?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=Y9NquqtLGY4" frameborder="0" allowfullscreen></iframe></div>
+              <div class="parablur"></div>
+              <iframe id="video" loop muted autoplay src="https://www.youtube.com/embed/Y9NquqtLGY4?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=Y9NquqtLGY4" style="border-style: none;min-width: 100%; min-height: 100%; width: auto; height: auto" frameborder="0" allowfullscreen></iframe> 
             </div>
           </div>
         </div>
