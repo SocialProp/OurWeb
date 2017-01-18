@@ -66,8 +66,6 @@ $('.multiple-item').slick({
   smallfeed.run();
 
 
-
-
   //AUTO TYPEO FUNCTION
   $(document).ready(function(){
     $("#typed_text").typed({
