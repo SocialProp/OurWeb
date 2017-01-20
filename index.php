@@ -6,7 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Somos una agencia digital que crea soluciones innovadores y desarrolla estratégias de comunicación para potenciar la presencia online de nuestros clientes.">
+    <meta name="keywords" content="Agencia digital, Barbuda Studio, comunicación, desarrollo web, análisis, estrategia de comunicación, redes sociales, community management, diseño web, soluciones web, sitios web, fotografía y video, creación de contenido">
     <meta name="author" content="">
 
     <title>Barbuda Studio</title>
