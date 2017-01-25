@@ -43,7 +43,6 @@
 
   ga('create', 'UA-90674020-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 </head>
 
@@ -389,8 +388,6 @@
                         <h4>Hernán Bessera</h4>
                         <p class="text-muted">Full Stack Developer</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
                             <li><a href="https://www.facebook.com/hernan.garat92" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a href="https://ar.linkedin.com/in/hernan-bessera-6291267a" target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -408,11 +405,9 @@
                         <h4>Manuel Kirschbaum</h4>
                         <p class="text-muted">Lead Marketer & Developer</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                            </li>
                             <li><a href="https://www.facebook.com/manolokito" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://ar.linkedin.com/in/manukir" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -427,11 +422,9 @@
                         <h4>Gon Martin</h4>
                         <p class="text-muted">Social media coordinator</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            <li><a href="https://www.facebook.com/gon.martin.9" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://ar.linkedin.com/in/gonzalo-martin-35281491" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
