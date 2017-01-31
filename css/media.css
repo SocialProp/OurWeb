@@ -33,6 +33,9 @@
      #textocontactanos{
        font-size: 35px
      }
+     aside.clients {
+       display: none;
+     }
    }
 
 

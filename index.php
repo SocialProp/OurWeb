@@ -288,6 +288,34 @@
         </div>
     </section>
 
+    <!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <a>
+                        <img src="img/logos/claxon.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a>
+                        <img src="img/logos/BTM.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a>
+                        <img src="img/logos/Dali.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a>
+                        <img src="img/logos/humos.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </aside>
+
     <!-- About Section -->
     <!-- <section id="about">
         <div class="container">
@@ -420,7 +448,7 @@
                     <div class="team-member">
                         <img src="img/team/Gon.jpg" class="img-responsive img-circle" alt="">
                         <h4>Gon Martin</h4>
-                        <p class="text-muted">Social media coordinator</p>
+                        <p class="text-muted">Social Media Coordinator</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/gon.martin.9" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
@@ -435,35 +463,6 @@
           </div>
         </div>
     </section>
-
-    <!-- Clients Aside -->
-    <!-- <aside class="clients">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                  <div class="content">
-                    <div id="smallfeed" class="multiple-item">
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </aside> -->
 
     <!-- Contact Section -->
     <section id="contact">
@@ -727,6 +726,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="vendor/bootstrap/js/jquery.bootstrap-autohidingnavbar.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
@@ -744,7 +744,10 @@
             var containerEl = document.querySelector('.elements');
 
             var mixer = mixitup(containerEl);
+
+            $(".navbar-fixed-top").autoHidingNavbar();
     </script>
+
 </body>
 
 </html>

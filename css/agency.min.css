@@ -668,11 +668,13 @@ footer span.copyright, footer ul.quicklinks {
 .team-member p {
     margin-top: 0
 }
-
-aside.clients img {
-    margin: 50px auto
+aside {
+  background-color: #fff;
 }
-
+aside.clients img {
+    margin: 50px auto;
+    max-width: 120px;
+}
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
