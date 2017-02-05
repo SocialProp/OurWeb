@@ -5,12 +5,14 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /*font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+
     webkit-tap-highlight-color: #167bce
 }
 
 .btn-primary, .btn-xl, h1, h2, h3, h4, h5, h6 {
-    font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     font-weight: 700
 }
@@ -689,7 +691,8 @@ section#contact .form-control:focus {
 }
 
 section#contact ::-webkit-input-placeholder {
-    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
+
     text-transform: uppercase;
     font-weight: 700;
     color: #eee
