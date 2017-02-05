@@ -164,7 +164,7 @@ a.active, a:active, a:focus, a:hover {
 
 .btn-primary.active, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #222;
+    background-color: transparent;
     border-color: white;
 }
 
@@ -239,8 +239,8 @@ a.active, a:active, a:focus, a:hover {
 }
 
 .navbar-custom .navbar-nav>.active>a:focus, .navbar-custom .navbar-nav>.active>a:hover {
-    /*color: #fff;*/
-    background-color: #222
+    color: white;
+    background-color: transparent;
 }
 
 @media (min-width:768px) {
