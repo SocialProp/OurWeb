@@ -235,11 +235,11 @@ a.active, a:active, a:focus, a:hover {
 .navbar-custom .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0, 159, 255, 0.88);
+    background-color: transparent;
 }
 
 .navbar-custom .navbar-nav>.active>a:focus, .navbar-custom .navbar-nav>.active>a:hover {
-    color: #fff;
+    /*color: #fff;*/
     background-color: #222
 }
 
@@ -262,7 +262,7 @@ a.active, a:active, a:focus, a:hover {
         border-radius: 3px
     }
     .navbar-custom.affix {
-        background-color: #222;
+        background-color: rgba(34,34,34,0.66);
         padding: 10px 0
     }
     .navbar-custom.affix .navbar-brand {
