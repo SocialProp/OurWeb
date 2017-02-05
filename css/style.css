@@ -179,32 +179,13 @@ a.active, a:active, a:focus, a:hover {
 }
 /* BOTON CUENTANOS MAS */
 .btn-xl {
-    color: #fff;
-    /*background: -webkit-linear-gradient(left top, blue, light-blue); /* For Safari 5.1 to 6.0 */
-    /*background: -o-linear-gradient(bottom right, blue, light-blue); /* For Opera 11.1 to 12.0 */*/
-    /*background: -moz-linear-gradient(bottom right, blue, light-blue); /* For Firefox 3.6 to 15 */*/
-    /*background: linear-gradient(to bottom right, blue, violet); /* Standard syntax (must be last) */*/
-    background-color: rgba(255, 255, 255, .80);
-    border-color: white;
-    border-radius: 10px;
-    font-size: 18px;
-    padding: 20px 40px
-}
-
-.btn-xl.active, .btn-xl:active, .btn-xl:focus, .btn-xl:hover, .open .dropdown-toggle.btn-xl {
-    color: #fff;
-    background-color: #222;
-    border-color: white;
-}
-
-.btn-xl.disabled, .btn-xl.disabled.active, .btn-xl.disabled:active, .btn-xl.disabled:focus, .btn-xl.disabled:hover, .btn-xl[disabled], .btn-xl[disabled].active, .btn-xl[disabled]:active, .btn-xl[disabled]:focus, .btn-xl[disabled]:hover, fieldset[disabled] .btn-xl, fieldset[disabled] .btn-xl.active, fieldset[disabled] .btn-xl:active, fieldset[disabled] .btn-xl:focus, fieldset[disabled] .btn-xl:hover {
-    background-color: #167bce;
-    border-color: #167bce
-}
-
-.btn-xl .badge {
-    color: #167bce;
-    background-color: #fff
+  color: white;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 50px;
+  width: 300px;
+  height: 60px;
+  margin-top: 30px;
 }
 
 .navbar-custom {
