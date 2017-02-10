@@ -424,6 +424,8 @@
                             </li>
                             <li><a href="https://ar.linkedin.com/in/hernan-bessera-6291267a" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
+                            <li><a href="mailto:hernan@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -441,6 +443,8 @@
                             </li>
                             <li><a href="https://ar.linkedin.com/in/manukir" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
+                            <li><a href="mailto:manu@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                   </div>
@@ -457,6 +461,8 @@
                             <li><a href="https://www.facebook.com/gon.martin.9" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a href="https://ar.linkedin.com/in/gonzalo-martin-35281491" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li><a href="mailto:gon@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
                             </li>
                         </ul>
                     </div>
