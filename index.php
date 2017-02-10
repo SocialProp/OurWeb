@@ -21,7 +21,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-
+    <!-- slick -->
+    <link rel="stylesheet" type="text/css" href="vendor/slick-carousel/slick/slick.css"/>
 
     <!-- Theme CSS -->
     <link href="css/style.css" rel="stylesheet">
@@ -290,28 +291,32 @@
     <!-- Clients Aside -->
     <aside class="clients">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <a>
-                        <img src="img/logos/claxon.png" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a>
-                        <img src="img/logos/BTM.png" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a>
-                        <img src="img/logos/Dali.png" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a>
-                        <img src="img/logos/humos.png" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            </div>
+          <div class="row slick">
+              <div>
+                      <img src="img/logos/claxon.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/BTM.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/Dali.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/humos.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/body_sculpt.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/Quiquia.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/Producteca.png" class="img-responsive img-centered" alt="">
+              </div>
+              <div>
+                      <img src="img/logos/alma_chic.png" class="img-responsive img-centered" alt="">
+              </div>
+          </div>
         </div>
     </aside>
 
@@ -738,6 +743,8 @@
     <script src="js/agency.min.js"></script>
     <!-- Mezclador -->
     <script src="js/mixitup.min.js"></script>
+    <!-- slick -->
+    <script type="text/javascript" src="vendor/slick-carousel/slick/slick.min.js"></script>
 
     <script>
             var containerEl = document.querySelector('.elements');
@@ -745,6 +752,14 @@
             var mixer = mixitup(containerEl);
 
             $(".navbar-fixed-top").autoHidingNavbar();
+            $('.slick').slick({
+              slidesToShow: 4,
+              slidesToScroll: 1,
+              autoplay: true,
+              autoplaySpeed: 2000,
+              arrows: false,
+              pauseOnHover: false
+            });
     </script>
 
 </body>
