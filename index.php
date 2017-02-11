@@ -422,7 +422,7 @@
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/hernan.garat92" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="https://ar.linkedin.com/in/hernan-bessera-6291267a" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://ar.linkedin.com/in/hernanBessera" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
                             <li><a href="mailto:hernan@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
                             </li>
