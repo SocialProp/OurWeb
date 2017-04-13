@@ -194,12 +194,13 @@
      <section id="portfolio" class="bg-light-gray">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-md-12 text-center">
                     <h2 class="section-heading">Portfolio</h2>
                     <h3 class="section-subheading text-muted">Hacemos paginas muy variadas dependiendo las necesidades del cliente.</h3>
                 </div>
             </div>
             <div class="row">
+
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a  target="_blank" href="http://palomagonzalezheredia.com.ar"  class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -214,6 +215,7 @@
                         <p class="text-muted">Paloma G.H Official Web Page</p>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a target="_blank" href="http://www.humos.com.ar" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -228,6 +230,7 @@
                         <p class="text-muted">Humos Argentina</p>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a target="_blank" href="http://dalizapatos.com.ar" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -242,6 +245,7 @@
                         <p class="text-muted">Dali Official Ecommerce </p>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="http://claxonapp.com/" target="_blank" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -256,34 +260,37 @@
                         <p class="text-muted">Web and Mobile development</p>
                     </div>
                 </div>
-                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.btmlatam.com" target="_blank" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/btm.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Escape</h4>
+                        <h4>BTM LATAM</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                </div> -->
-                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://michubuenosaires.com" target="_blank" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/mich.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Dreams</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>MICHU BUENOS AIRES</h4>
+                        <p class="text-muted">E-SHOP & Web Page</p>
                     </div>
-                </div> -->
+                </div>
+
             </div>
         </div>
     </section>
