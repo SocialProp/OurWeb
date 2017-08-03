@@ -301,30 +301,37 @@
         <div class="container-fluid">
           <div class="row slick">
               <div>
-                      <img src="img/logos/claxon.png" class="img-responsive img-centered" alt="">
+                      <a href="http://claxonapp.com/" target="_blank"><img src="img/logos/claxon.png" class="img-responsive img-centered" alt=""></a>
               </div>
               <div>
-                      <img src="img/logos/BTM.png" class="img-responsive img-centered" alt="">
+                      <a href="http://www.btmlatam.com" target="_blank"><img src="img/logos/BTM.png" class="img-responsive img-centered" alt=""></a>
               </div>
               <div>
-                      <img src="img/logos/Dali.png" class="img-responsive img-centered" alt="">
+                      <a href="http://dalizapatos.com.ar" target="_blank"><img src="img/logos/Dali.png" class="img-responsive img-centered" alt=""></a>
               </div>
               <div>
-                      <img src="img/logos/humos.png" class="img-responsive img-centered" alt="">
+                      <a href="http://www.humos.com.ar" target="_blank"><img src="img/logos/humos.png" class="img-responsive img-centered" alt=""></a>
               </div>
               <div>
                       <img src="img/logos/body_sculpt.png" class="img-responsive img-centered" alt="">
               </div>
               <div>
-                      <img src="img/logos/Quiquia.png" class="img-responsive img-centered" alt="">
+                      <a href="https://www.instagram.com/cerveceriaquiquia/" target="_blank"><img src="img/logos/Quiquia.png" class="img-responsive img-centered" alt=""></a>
               </div>
               <div>
-                      <img src="img/logos/Producteca.png" class="img-responsive img-centered" alt="">
+                      <a href="https://www.producteca.com/" target="_blank"><img src="img/logos/Producteca.png" class="img-responsive img-centered" alt=""></a>
               </div>
               <div>
-                      <img src="img/logos/alma_chic.png" class="img-responsive img-centered" alt="">
+                      <a href="https://www.instagram.com/almachiclomas/" target="_blank"><img src="img/logos/alma_chic.png" class="img-responsive img-centered" alt=""></a>
+              </div>
+                <div>
+                      <a href="https://www.instagram.com/michu_bsas/" target="_blank"><img src="img/logos/michu.png" class="img-responsive img-centered" alt=""></a>
+              </div>
+                <div>
+                      <a href="https://www.instagram.com/zest_handbags/" target="_blank"><img src="img/logos/zest.png" class="img-responsive img-centered" alt=""></a>
               </div>
           </div>
+          
         </div>
     </aside>
 
