@@ -306,6 +306,9 @@
               <div>
                       <a href="http://www.btmlatam.com" target="_blank"><img src="img/logos/BTM.png" class="img-responsive img-centered" alt=""></a>
               </div>
+                <div>
+                      <a href="https://www.instagram.com/porsche_argentina/" target="_blank"><img src="img/logos/porsche.png" class="img-responsive img-centered" alt=""></a>
+              </div>
               <div>
                       <a href="http://dalizapatos.com.ar" target="_blank"><img src="img/logos/Dali.png" class="img-responsive img-centered" alt=""></a>
               </div>
