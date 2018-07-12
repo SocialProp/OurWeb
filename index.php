@@ -435,15 +435,15 @@
                   <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
                     <div class="team-member">
-                        <img src="img/team/hernan2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Hernán Bessera</h4>
-                        <p class="text-muted">Full Stack Developer</p>
+                        <img src="img/team/maru.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Marina Jakobs</h4>
+                        <p class="text-muted">Chief of Operations & BTL Producer</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="https://www.facebook.com/hernan.garat92" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="https://ar.linkedin.com/in/hernanBessera" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
-                            <li><a href="mailto:hernan@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
+                            <li><a href="mailto:marina@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
                             </li>
                         </ul>
                     </div>
