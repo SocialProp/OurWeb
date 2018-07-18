@@ -103,7 +103,7 @@
             <div id="filter">
             </div>
               <div class="parablur"></div>
-              <iframe id="video" src="https://www.youtube.com/embed/Y9NquqtLGY4?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=Y9NquqtLGY4" style="border-style: none;min-width: 100%; min-height: 100%; width: auto; height: auto" frameborder="0" allowfullscreen></iframe>
+              <iframe id="video" src="https://www.youtube.com/embed/Y9NquqtLGY4?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=Y9NquqtLGY4" allow="autoplay; encrypted-media" style="border-style: none;min-width: 100%; min-height: 100%; width: auto; height: auto" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
         </div>
