@@ -439,9 +439,9 @@
                         <h4>Marina Jakobs</h4>
                         <p class="text-muted">Chief of Operations & BTL Producer</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/maru.jakobs" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://www.linkedin.com/in/marina-jakobs/" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </li>
                             <li><a href="mailto:marina@barbudastudio.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -456,7 +456,7 @@
                     <div class="team-member">
                         <img src="img/team/manuel.jpg" class="img-responsive img-circle" alt="">
                         <h4>Manuel Kirschbaum</h4>
-                        <p class="text-muted">Lead Marketer & Developer</p>
+                        <p class="text-muted">Lead Marketer & Content Creator</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/manolokito" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
@@ -546,11 +546,11 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        <li><a href="https://www.instagram.com/barbuda_studio/" target="_blank"><i class="fa fa-instagram"></i></a>
                         </li>
                         <li><a href="#"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        <li><a href="https://www.linkedin.com/company/barbudastudio/" target="_blank"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
                 </div>
