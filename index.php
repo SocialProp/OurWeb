@@ -203,17 +203,17 @@
             <div class="row">
 
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a  target="_blank" href="http://palomagonzalezheredia.com.ar"  class="portfolio-link" data-toggle="modal">
+                    <a  target="_blank" href="https://www.instagram.com/porsche_argentina/"  class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/paloma.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/porsche.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Actress Web Page</h4>
-                        <p class="text-muted">Paloma G.H Official Web Page</p>
+                        <h4>Porsche Argentina Digital Agency</h4>
+                        <p class="text-muted">Social Media/Strategy/Content creation</p>
                     </div>
                 </div>
 
@@ -227,8 +227,8 @@
                         <img src="img/portfolio/humos.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Food Single Web Page </h4>
-                        <p class="text-muted">Humos Argentina</p>
+                        <h4>Humos Argentina</h4>
+                        <p class="text-muted">Web development/Content creation</p>
                     </div>
                 </div>
 
@@ -242,24 +242,24 @@
                         <img src="img/portfolio/ecommerce.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Ecommerce</h4>
-                        <p class="text-muted">Dali Official Ecommerce </p>
+                        <h4>Dali Official</h4>
+                        <p class="text-muted">Ecommerce</p>
                     </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="http://claxonapp.com/" target="_blank" class="portfolio-link" data-toggle="modal">
+                    <a href="http://stamford.com.ar" target="_blank" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/Claxon.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/stamford.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Mobile App</h4>
-                        <p class="text-muted">Web and Mobile development</p>
+                        <h4>Stamford Rollers</h4>
+                        <p class="text-muted">Web development</p>
                     </div>
                 </div>
 
