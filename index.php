@@ -56,7 +56,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top" id='titulomain'>Barbuda Studio</a>
+                <a class="navbar-brand page-scroll" href="#page-top" id='titulomain'><img src="img/full_logo.png" alt=""></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -184,10 +184,16 @@
                       <i class="fa fa-circle fa-stack-2x text-primary"></i>
                       <i class="fa fa-camera fa-stack-1x fa-inverse"></i>
                   </span>
-
                   <h4 class="service-heading">Fotos y Videos</h4>
-
                   <p class="text-muted">Generamos el mejor contenido para comunicar y viralizar tu marca.</p>
+              </div>
+              <div class="col-md-4 mix comunicacion">
+                  <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-lightbulb-o fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">BTL</h4>
+                  <p class="text-muted">Realizamos proyectos especiales y actuvaciones BTL (Stands, Eventos, escenografías, cartelería).</p>
               </div>
             </div>
         </div>

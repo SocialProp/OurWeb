@@ -225,6 +225,9 @@ a.active, a:active, a:focus, a:hover {
     border-color: #167bce;
     font-size: 12px
 }
+.navbar-custom li a .fa-lg {
+    font-size: 1.9em;
+}
 
 .navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
     background-color: #167bce
@@ -902,7 +905,7 @@ img::-moz-selection {
   height: 100%;
   z-index: 1;
   pointer-events: none; /*Unofficial and Won't Validate*/
-  background-color: rgba(22, 123, 206, 0.69);
+  background-color: rgba(22, 123, 206, 0.2);
   margin-left: -15px;
   }
 .intro-lead-in{
@@ -915,9 +918,13 @@ img::-moz-selection {
   z-index: -99;
 }
 #titulomain{
-  color: #16cec8
+  color: #16cec8;
+  padding-top: 0px;
 }
 
+#titulomain img {
+    max-width: 150px;
+}
 
 /* TYPED JS CSS */
 .typed-cursor{
