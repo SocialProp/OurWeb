@@ -80,6 +80,8 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
+                    <li><a href="https://www.youtube.com/channel/UCk2eAas7uEaC2VXGJ6J9TWA?view_as=public" target="_blank"><i class="fa fa-youtube fa-lg"></i></a></li>
+                    <li><a href="https://www.instagram.com/barbuda_studio/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -103,7 +105,7 @@
             <div id="filter">
             </div>
               <div class="parablur"></div>
-              <iframe id="video" src="https://www.youtube.com/embed/Y9NquqtLGY4?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=Y9NquqtLGY4" allow="autoplay; encrypted-media" style="border-style: none;min-width: 100%; min-height: 100%; width: auto; height: auto" frameborder="0" allowfullscreen></iframe>
+              <iframe id="video" src="https://www.youtube.com/embed/9D_miEcV0Lo?controls=0&showinfo=0&rel=0&mute=1&autoplay=1&loop=1&playlist=9D_miEcV0Lo" allow="autoplay; encrypted-media" style="border-style: none;min-width: 100%; min-height: 100%; width: auto; height: auto" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
         </div>
@@ -548,7 +550,7 @@
                     <ul class="list-inline social-buttons">
                         <li><a href="https://www.instagram.com/barbuda_studio/" target="_blank"><i class="fa fa-instagram"></i></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        <li><a href="https://www.youtube.com/channel/UCk2eAas7uEaC2VXGJ6J9TWA?view_as=public" target="_blank"><i class="fa fa-youtube"></i></a>
                         </li>
                         <li><a href="https://www.linkedin.com/company/barbudastudio/" target="_blank"><i class="fa fa-linkedin"></i></a>
                         </li>
