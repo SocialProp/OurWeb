@@ -232,7 +232,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/humos.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/humos.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Humos Argentina</h4>
@@ -247,7 +247,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/ecommerce.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/ecommerce.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Dali Official</h4>
