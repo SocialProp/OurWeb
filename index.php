@@ -193,7 +193,7 @@
                       <i class="fa fa-lightbulb-o fa-stack-1x fa-inverse"></i>
                   </span>
                   <h4 class="service-heading">BTL</h4>
-                  <p class="text-muted">Realizamos proyectos especiales y actuvaciones BTL (Stands, Eventos, escenografías, cartelería).</p>
+                  <p class="text-muted">Realizamos proyectos especiales y activaciones BTL (Stands, Eventos, escenografías, cartelería).</p>
               </div>
             </div>
         </div>
