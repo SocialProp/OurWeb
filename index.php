@@ -310,9 +310,6 @@
         <div class="container-fluid">
           <div class="row slick">
               <div>
-                      <a href="http://claxonapp.com/" target="_blank"><img src="img/logos/claxon.png" class="img-responsive img-centered" alt=""></a>
-              </div>
-              <div>
                       <a href="http://www.btmlatam.com" target="_blank"><img src="img/logos/BTM.png" class="img-responsive img-centered" alt=""></a>
               </div>
                 <div>
@@ -341,6 +338,12 @@
               </div>
                 <div>
                       <a href="https://www.instagram.com/zest_handbags/" target="_blank"><img src="img/logos/zest.png" class="img-responsive img-centered" alt=""></a>
+              </div>
+              <div>
+                    <a href="https://www.instagram.com/depilogie" target="_blank"><img src="img/logos/depilogie.png" class="img-responsive img-centered" alt=""></a>
+              </div>
+              <div>
+                    <a href="https://www.facebook.com/paquetesenpromocion" target="_blank"><img src="img/logos/ptenp.png" class="img-responsive img-centered" alt=""></a>
               </div>
           </div>
           
